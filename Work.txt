@@ -1,0 +1,45 @@
+Service Provider
+
+Login,
+View Data Set Details,
+Train Disaster Intensity Data Set Details,
+Test For Disaster Prediction,
+View All Disaster Details, 
+View Data Sets Tested Details,
+View All Remote Users,
+View Disaster Intensity Tested Results,
+View Number Of People Died Results.
+
+
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+POST DATA SETS, 
+SEARCH ON DISASTER DATA SET DETAILS, 
+VIEW YOUR PROFILE.
+
+
+
+Members
+
+
+country,
+state_district,
+names,
+dtype,
+dnames,
+deails,
+date_time,
+no_people_died,
+duration_Of_impact,
+length_Of_forewarning,
+disability,
+communicable_disease,
+pychological_problems,
+food_shortage,
+socioeconomic_losses,
+Short_Of_drugs,
+environmental_disruption.
